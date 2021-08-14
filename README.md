@@ -26,7 +26,7 @@
   
   <div>
    <img align="center" title="Figma" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-   <img align="center" title="Adobe-XD" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg">
+   <img align="center" title="Adobe XD" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg">
    <img align="center" title="VS Code" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
    
   
