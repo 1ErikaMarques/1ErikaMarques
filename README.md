@@ -1,4 +1,4 @@
-<h4> Olá 👋🏽, eu sou a Erika </h4>
+<h4> Olá 👋🏽, eu sou a Erika 😁 </h4>
 
 - 👩🏽‍💻 Sou estudante de Sistemas para internet
 - 🌱 Estudando React Native 
